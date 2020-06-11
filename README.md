@@ -19,9 +19,9 @@ Create a database and run the provided sql queries on the database to import dat
 - Run the Server.java file to start the server side application.
 - Run the Client.java file to demonstrate the client side communication to the server.
 
-----------------------------------------------
-Note: the database server needs to be running
-----------------------------------------------
+---------------------------------------------------
+#### Note: the database server needs to be running
+---------------------------------------------------
 
 
 ## Test
