@@ -1,18 +1,27 @@
 # javaTollEventCA6
 
-Java School Project On socket, concurrence, json and Database Access Object (DAO)
+This is a school project on demonstration of Java socket, concurrence, sending and parsing Json objects and Database Access Object (DAO)
+
 
 ## Getting Started
 
-You need to first create a database and import into the databse using the provided sql quieres.
-
-### Prerequisites
-Java IDE
-Funtioning Mysql Server
+Create a database and run the provided sql queries on the database to import data into the database.
 
 
-### Installing
+## Prerequisites
 
+- Java IDE
+- Funtioning Mysql Server
+
+
+## Run 
+
+- Run the Server.java file to start the server side application.
+- Run the Client.java file to demonstrate the client side communication to the server.
+
+----------------------------------------------
+Note: the database server needs to be running
+----------------------------------------------
 
 
 ## Test
@@ -20,28 +29,15 @@ Funtioning Mysql Server
 Unit test was done on some part of the system.
 
 
+## Authors
 
-## Deployment
-
+* **Kingsley Osemwenkhae (kizzyFuego)** 
 
 
 ## Contributing
 
 Leave me a message and I shall get back to you.
 
-
-## Versioning
-
-
-
-## Authors
-
-* **Kingsley (kizzyFuego)** 
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
